@@ -47,9 +47,9 @@ A construção do circuito foi realizada com o auxílio da biblioteca adequada e
 
 Durante o desenvolvimento da plotagem do gráfico e da construção/animação do circuito, utilizaram-se como inspiração os seguintes recursos:
 
-- [Vídeo 1](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
-- [Vídeo 2](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
-- [Vídeo 3](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
+- [Electrical Circuit Representation with ManimCE and LaTex || ManimCE || Python](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [Design, Simulate & Animate Electrical Circuits with Python](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [1.1 Manim tutorial: Creating Graphs](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
 - [Código de referência no GitHub 1](https://github.com/sayedul79/m-anim/blob/main/colored-circuit.py)
 - [Código de referência no GitHub 2](https://github.com/yasser64b/Animations)
 
@@ -135,9 +135,9 @@ The circuit construction was carried out with the help of the appropriate librar
 
 During the development of the graph plotting and circuit construction/animation, the following resources were used as inspiration:
 
-- [Video 1](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
-- [Video 2](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
-- [Video 3](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
+- [Electrical Circuit Representation with ManimCE and LaTex || ManimCE || Python](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [Design, Simulate & Animate Electrical Circuits with Python](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [1.1 Manim tutorial: Creating Graphs](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
 - [Reference Code on GitHub 1](https://github.com/sayedul79/m-anim/blob/main/colored-circuit.py)
 - [Reference Code on GitHub 2](https://github.com/yasser64b/Animations)
 
