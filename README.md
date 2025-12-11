@@ -23,20 +23,39 @@
 ```text
 DC-Electrical-Circuit-Analysis/
 ├─ README.md
-├─ Laboratory-Reports/
-│   ├── Roteiro1_ACC_Final.pdf
-│   ├── Roteiro2_ACC_Final.pdf
-│   ├── Roteiro3_ACC_Final_Reduzido.pdf
-│   ├── Roteiro4_ACC_Final.pdf
-│   └── Roteiro5_ACC_Final_v2.pdf
+├─ Laboratory-report/
+│   └── Roteiro1_ACC_Final.pdf
+│   └── Roteiro2_ACC_Final.pdf
+│   └── Roteiro3_ACC_Final_reduzido.pdf
+│   └── Roteiro4_ACC_Final.pdf
+│   └── Roteiro5_ACC_Final (2).pdf
 └─ Presentation/
-    ├── codigo1.py
-    ├── codigo2.py
-    └── codigo3.py
 ```
 
 ---
 
+## Sobre a Apresentação usando ManimCE
+
+Para o desenvolvimento do código, foi utilizada a 
+[Documentação Oficial do Manim](https://docs.manim.community/en/stable/reference/manim.animation.animation.Animation.html).  
+A construção do circuito foi realizada com o auxílio da biblioteca adequada e da aplicação web 
+[TikZMaker](https://tikzmaker.com/editor).
+
+Durante o desenvolvimento da plotagem do gráfico e da construção/animação do circuito, utilizaram-se como inspiração os seguintes recursos:
+
+- [Vídeo 1](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [Vídeo 2](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [Vídeo 3](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
+- [Código de referência no GitHub 1](https://github.com/sayedul79/m-anim/blob/main/colored-circuit.py)
+- [Código de referência no GitHub 2](https://github.com/yasser64b/Animations)
+
+
+Cada trecho do vídeo foi gerado a partir de uma parcela do código. Depois que tudo ficou pronto, foi usado o [Adobe Express](https://new.express.adobe.com/home/tools/merge-videos) para concatenar os vídeos.
+
+> Obs.: Na pasta ```Presentation/``` do respositório, vão estar somente as partes principais.
+
+
+---
 
 <p align="center">
   <img
