@@ -106,6 +106,8 @@ Com o ambiente virtual ativado e o arquivo Python pronto, execute a animação c
 python -m manim -pqh *.py <nomeClasse>
 ```
 
+> No Youtube, tem uma breve execução do passo a passo: [Instruções simples sobre executar ManimCE pelo terminal](https://youtu.be/dnqXJ8WkLio)
+
 </details>
 
 ---
