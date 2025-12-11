@@ -38,7 +38,7 @@ DC-Electrical-Circuit-Analysis/
 
 Para o desenvolvimento do código, foi utilizada a 
 [Documentação Oficial do Manim](https://docs.manim.community/en/stable/reference/manim.animation.animation.Animation.html).  
-A construção do circuito foi realizada com o auxílio da biblioteca adequada e da aplicação web 
+A construção do circuito foi realizada com a biblioteca ```circuitikz```  e da aplicação web 
 [TikZMaker](https://tikzmaker.com/editor).
 
 Durante o desenvolvimento da plotagem do gráfico e da construção/animação do circuito, utilizaram-se como inspiração os seguintes recursos:
