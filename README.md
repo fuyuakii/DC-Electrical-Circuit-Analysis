@@ -118,82 +118,87 @@ python -m manim -pqh *.py <nomeClasse>
 
 ---
 
+
+
+
+
 ## About the Presentation using ManimCE
 
 <details>
-    <summary><b>Code Development</b></summary>
 
-    For code development, the 
-    [Official Manim Documentation](https://docs.manim.community/en/stable/reference/manim.animation.animation.Animation.html) was used.  
-    The circuit construction was carried out with the help of the appropriate library and the web application 
-    [TikZMaker](https://tikzmaker.com/editor).
+<summary><b>Code Development</b></summary>
 
-    During the development of the graph plotting and circuit construction/animation, the following resources were used as inspiration:
+For code development, the 
+[Official Manim Documentation](https://docs.manim.community/en/stable/reference/manim.animation.animation.Animation.html) was used.  
+The circuit construction was carried out with the help of the appropriate library and the web application 
+[TikZMaker](https://tikzmaker.com/editor).
 
-    - [Video 1](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
-    - [Video 2](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
-    - [Video 3](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
-    - [Reference Code on GitHub 1](https://github.com/sayedul79/m-anim/blob/main/colored-circuit.py)
-    - [Reference Code on GitHub 2](https://github.com/yasser64b/Animations)
+During the development of the graph plotting and circuit construction/animation, the following resources were used as inspiration:
 
-    Each video segment was generated from a portion of the code. After everything was ready, [Adobe Express](https://new.express.adobe.com/home/tools/merge-videos) was used to concatenate the videos.
+- [Video 1](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [Video 2](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
+- [Video 3](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
+- [Reference Code on GitHub 1](https://github.com/sayedul79/m-anim/blob/main/colored-circuit.py)
+- [Reference Code on GitHub 2](https://github.com/yasser64b/Animations)
 
-    > Note: In the ```Presentation/``` folder of the repository, only the main parts will be available.
+Each video segment was generated from a portion of the code. After everything was ready, [Adobe Express](https://new.express.adobe.com/home/tools/merge-videos) was used to concatenate the videos.
 
-    All code was executed on Ubuntu 24.04.3 LTS via the terminal. There are several alternatives, such as using Google Colab, but here Vim was adopted along with the system's default terminal.
+> Note: In the ```Presentation/``` folder of the repository, only the main parts will be available.
+
+All code was executed on Ubuntu 24.04.3 LTS via the terminal. There are several alternatives, such as using Google Colab, but here Vim was adopted along with the system's default terminal.
 
 </details>
 
 <details>
-    <summary><b>ManimCE Installation and Execution Instructions</b></summary>
+<summary><b>ManimCE Installation and Execution Instructions</b></summary>
 
-    ## 1. Installation
+## 1. Installation
 
-    Installation was performed according to the official Manim documentation. In the case of Linux, it was sufficient to follow the specific instructions:
+Installation was performed according to the official Manim documentation. In the case of Linux, it was sufficient to follow the specific instructions:
 
-    **Documentation:**  
-    [Manim Installation](https://docs.manim.community/en/stable/installation/uv.html)
+**Documentation:**  
+[Manim Installation](https://docs.manim.community/en/stable/installation/uv.html)
 
-    ```bash
-    sudo apt update
-    sudo apt install texlive-full build-essential python3-dev libcairo2-dev libpango1.0-dev
-    ```
+```bash
+sudo apt update
+sudo apt install texlive-full build-essential python3-dev libcairo2-dev libpango1.0-dev
+```
 
-    ## 2. Creation and activation of the Python virtual environment
+## 2. Creation and activation of the Python virtual environment
 
-    The use of virtual environments is a standard practice for running Python programs. More information can be found in the [venv module documentation](https://docs.python.org/3/library/venv.html).
+The use of virtual environments is a standard practice for running Python programs. More information can be found in the [venv module documentation](https://docs.python.org/3/library/venv.html).
 
-    ```bash
-    python3 -m venv teste
-    source teste/bin/activate
-    ```
+```bash
+python3 -m venv teste
+source teste/bin/activate
+```
 
-    ## 3. Library installation within the virtual environment
+## 3. Library installation within the virtual environment
 
-    With the virtual environment activated, update `pip` and install Manim:
+With the virtual environment activated, update `pip` and install Manim:
 
-    ```bash
-    pip install --upgrade pip
-    pip install manim
-    ```
+```bash
+pip install --upgrade pip
+pip install manim
+```
 
-    ## 4. Open or edit the repository code files
+## 4. Open or edit the repository code files
 
-    You can open the Python files from the repository in a text editor, such as Vim:
+You can open the Python files from the repository in a text editor, such as Vim:
 
-    ```bash
-    vim *.py
-    ```
+```bash
+vim *.py
+```
 
-    ## 5. Run the animation
+## 5. Run the animation
 
-    With the virtual environment activated and the Python file ready, execute the animation with the following command:
+With the virtual environment activated and the Python file ready, execute the animation with the following command:
 
-    ```bash
-    python -m manim -pqh *.py <ClassName>
-    ```
+```bash
+python -m manim -pqh *.py <ClassName>
+```
 
-    > On YouTube, there's a brief demonstration of the step-by-step process: [Simple instructions for running ManimCE via terminal](https://youtu.be/dnqXJ8WkLio)
+> On YouTube, there's a brief demonstration of the step-by-step process: [Simple instructions for running ManimCE via terminal](https://youtu.be/dnqXJ8WkLio)
 
 </details>
 
