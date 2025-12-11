@@ -46,8 +46,8 @@ Durante o desenvolvimento da plotagem do gráfico e da construção/animação d
 - [Electrical Circuit Representation with ManimCE and LaTex || ManimCE || Python](https://www.youtube.com/watch?v=sWSmd3cujK8&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
 - [Design, Simulate & Animate Electrical Circuits with Python](https://www.youtube.com/watch?v=Ckownv7VoxM&pp=ygUQbWFuaW0gY2UgY2lyY3VpdA%3D%3D)
 - [1.1 Manim tutorial: Creating Graphs](https://www.youtube.com/watch?v=GemuXCUEBVU&t=410s)
-- [Código de referência no GitHub 1](https://github.com/sayedul79/m-anim/blob/main/colored-circuit.py)
-- [Código de referência no GitHub 2](https://github.com/yasser64b/Animations)
+- [colored-circuit.py](https://github.com/sayedul79/m-anim/blob/main/colored-circuit.py)
+- [1.1 Manim graphs.py](https://github.com/yasser64b/Animations)
 
 
 Cada trecho do vídeo foi gerado a partir de uma parcela do código. Depois que tudo ficou pronto, foi usado o [Adobe Express](https://new.express.adobe.com/home/tools/merge-videos) para concatenar os vídeos.
