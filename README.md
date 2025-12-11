@@ -21,15 +21,16 @@
 ## 📂 Estrutura do Repositório (Repository Structure)
 
 ```text
-DC-Electrical-Circuit-Analysis/
-├─ README.md
-├─ Laboratory-report/
-│   └── Roteiro1_ACC_Final.pdf
-│   └── Roteiro2_ACC_Final.pdf
-│   └── Roteiro3_ACC_Final_reduzido.pdf
-│   └── Roteiro4_ACC_Final.pdf
-│   └── Roteiro5_ACC_Final (2).pdf
-└─ Presentation/
+├── Laboratory-Reports
+│   ├── Roteiro1_ACC_Final.pdf
+│   ├── Roteiro2_ACC_Final.pdf
+│   ├── Roteiro3_ACC_Final_reduzido.pdf
+│   ├── Roteiro4_ACC_Final.pdf
+│   └── Roteiro5_ACC_Final_v2.pdf
+├── Presentation
+│   ├── circuitoInicial.py
+│   └── graficoTensao.py
+└── README.md
 ```
 
 ---
