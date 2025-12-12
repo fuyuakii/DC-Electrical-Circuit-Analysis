@@ -5,7 +5,7 @@
   />
 </p>
 
-# Análise De Circuitos Em Corrente Contínua (DC Electrical Circuit Analysis)
+# **`Análise De Circuitos Em Corrente Contínua (DC Electrical Circuit Analysis)`**
 
 > Este repositório tem como foco principal armazenar os relatórios produzidos na disciplina **Análise de Circuitos em Corrente Contínua**, ministrada pelo professor **João Cesar Paula Salve**. Todos os relatórios foram elaborados utilizando `LaTeX` (compilados no `Overleaf`), o simulador de circuitos `Falstad` e, em alguns casos, gráficos gerados em `Python`, por meio da biblioteca `matplotlib`. Além disso, este repositório também armazena o código da apresentação final da disciplina, desenvolvida em `Python` utilizando a biblioteca `ManimCE`. O vídeo completo da apresentação pode ser acessado no seguinte link:  
 [Vídeo da Apresentação Completa](https://www.youtube.com/watch?v=DIhBOLY_waU)
