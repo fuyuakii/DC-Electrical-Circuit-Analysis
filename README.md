@@ -22,11 +22,11 @@
 
 ```text
 ├── Laboratory-Reports
-│   ├── Roteiro1_ACC_Final.pdf
-│   ├── Roteiro2_ACC_Final.pdf
-│   ├── Roteiro3_ACC_Final_reduzido.pdf
-│   ├── Roteiro4_ACC_Final.pdf
-│   └── Roteiro5_ACC_Final_v2.pdf
+│   ├── Report1.pdf
+│   ├── Report2.pdf
+│   ├── Report3.pdf
+│   ├── Report4.pdf
+│   └── Report5.pdf
 ├── Presentation
 │   ├── circuitoInicial.py
 │   └── graficoTensao.py
