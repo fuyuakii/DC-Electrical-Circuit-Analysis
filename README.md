@@ -9,11 +9,13 @@
 
 # **`Análise De Circuitos Em Corrente Contínua (DC Electrical Circuit Analysis)`**
 
+>[!IMPORTANT]
 > Este repositório tem como foco principal armazenar os relatórios produzidos na disciplina **Análise de Circuitos em Corrente Contínua**, ministrada pelo professor **João Cesar Paula Salve**. Todos os relatórios foram elaborados utilizando `LaTeX` (compilados no `Overleaf`), o simulador de circuitos `Falstad` e, em alguns casos, gráficos gerados em `Python`, por meio da biblioteca `matplotlib`. Além disso, este repositório também armazena o código da apresentação final da disciplina, desenvolvida em `Python` utilizando a biblioteca `ManimCE`. O vídeo completo da apresentação pode ser acessado no seguinte link:  
 [Vídeo da Apresentação Completa](https://www.youtube.com/watch?v=DIhBOLY_waU)
 
 ---
 
+>[!IMPORTANT]
 > This repository is primarily intended to store the reports produced for the course **DC Electrical Circuit Analysis**, taught by Professor **João Cesar Paula Salve**. All reports were created using `LaTeX` (compiled on `Overleaf`), the circuit simulator `Falstad`, and, in some cases, graphics generated in `Python` through the `matplotlib` library. Additionally, this repository also stores the code for the final presentation of the course, developed in `Python` using the `ManimCE` library. The full presentation video can be accessed at the link below:  
 [Full Presentation Video](https://www.youtube.com/watch?v=DIhBOLY_waU)
 
@@ -65,7 +67,8 @@ Durante o desenvolvimento da plotagem do gráfico e da construção/animação d
 
 Cada trecho do vídeo foi gerado a partir de uma parcela do código. Depois que tudo ficou pronto, foi usado o [Adobe Express](https://new.express.adobe.com/home/tools/merge-videos) para concatenar os vídeos.
 
-> Obs.: Na pasta ```Presentation/``` do respositório, vão estar somente as partes principais.
+
+> Na pasta ```Presentation/``` do respositório, vão estar somente as partes principais.
 
 
 Todo o código foi executado no Ubuntu 24.04.3 LTS por meio do terminal. Existem diversas alternativas, como utilizar o Google Colab, porém aqui foi adotado o Vim juntamente com o terminal padrão do sistema.
@@ -152,7 +155,8 @@ During the development of the graph plotting and circuit construction/animation,
 
 Each video segment was generated from a portion of the code. After everything was ready, [Adobe Express](https://new.express.adobe.com/home/tools/merge-videos) was used to concatenate the videos.
 
-> Note: In the ```Presentation/``` folder of the repository, only the main parts will be available.
+
+> In the ```Presentation/``` folder of the repository, only the main parts will be available.
 
 All code was executed on Ubuntu 24.04.3 LTS via the terminal. There are several alternatives, such as using Google Colab, but here Vim was adopted along with the system's default terminal.
 
