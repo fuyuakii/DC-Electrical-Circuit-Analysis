@@ -217,6 +217,16 @@ python -m manim -pqh *.py <ClassName>
 
 ---
 
+## Repositório Recomendado (Recommended Repository)
+
+<p align="center">
+  <a href="https://github.com/fuyuakii/Data-Structures">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/fuyuakii/Data-Structures&mode=dark&style=horizontal" alt="Data-Structures"/>
+  </a>
+</p>
+
+
+---
 
 
 <p align="center">
