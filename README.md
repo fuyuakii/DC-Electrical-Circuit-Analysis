@@ -218,6 +218,10 @@ python -m manim -pqh *.py <ClassName>
 
 </details>
 
+
+
+![Graph Project](Presentation/project.svg)
+
 ---
 
 ## Repositório Recomendado (Recommended Repository)
